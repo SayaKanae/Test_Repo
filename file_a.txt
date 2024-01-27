@@ -1,8 +1,0 @@
-this is a file in branch A
-
-
-New things to add.
-
-
-
-adding new line from bran_b
