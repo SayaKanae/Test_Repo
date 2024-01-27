@@ -1,0 +1,4 @@
+this is a file in branch A
+
+
+New things to add.
